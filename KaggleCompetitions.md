@@ -1,0 +1,22 @@
+Kaggle Competitions:</ br>
+</ br>
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques</ br>
+</ br>
+https://www.kaggle.com/c/allstate-claims-severity</ br>
+</ br>
+https://www.kaggle.com/c/expedia-hotel-recommendations</ br>
+</ br>
+https://www.kaggle.com/c/santander-customer-satisfaction</ br>
+</ br>
+https://www.kaggle.com/c/home-depot-product-search-relevance</ br>
+</ br>
+https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot</ br>
+</ br>
+https://www.kaggle.com/c/deloitte-churn-prediction</ br>
+</ br>
+https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction</ br>
+</ br>
+https://www.kaggle.com/c/mastercard-data-cleansing-competition-finals</ br>
+</ br>
+https://www.kaggle.com/c/us-census-challenge</ br>
+</ br>
