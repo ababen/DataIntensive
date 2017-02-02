@@ -1,9 +1,9 @@
 <h1>Kaggle Competitions:</h1>
-</ br>
-</ br>
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques</ br>
-</ br>
-https://www.kaggle.com/c/allstate-claims-severity</ br>
+<br />
+<br />
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques<br />
+<br />
+https://www.kaggle.com/c/allstate-claims-severity<br />
 </ br>
 https://www.kaggle.com/c/expedia-hotel-recommendations</ br>
 </ br>
