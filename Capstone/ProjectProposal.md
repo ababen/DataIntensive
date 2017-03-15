@@ -4,7 +4,7 @@
 
 Finalize one Capstone idea based on the feedback you got from mentor(s) and peers on your Section 1 submission, and also based on your newly acquired understanding of the tools and data wrangling. Submit a project proposal - a short (1-2 page) document that answers the following questions:
 
-1.	What is the problem you want to solve
+1.	What is the problem you want to solve   
 2.	Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn’t have otherwise?
 3.	What data are you going to use for this? How will you acquire this data?
 4.	In brief, outline your approach to solving this problem (knowing that this might change later).
